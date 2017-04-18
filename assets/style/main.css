@@ -1,0 +1,139 @@
+body{
+  font-family: 'Poiret One', cursive;
+  background-image: url('https://jacquierobinsonphotography.files.wordpress.com/2013/06/pretty-night-sky-418.jpg');
+  background-size: 110em;
+  background-position: center;
+  color: white;
+}
+
+#headr{
+  font-size: 10vw;
+  width: 45vw;
+  margin: auto;
+}
+.container{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+#query{
+  background-color: transparent;
+  border: none;
+  border-bottom: thin solid;
+  color:white;
+  font-family: 'Poiret One', cursive;
+  font-size: 2vw;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+#searchButt{
+}
+#randomButt{
+}
+.button{
+  background-color: transparent;
+  color:white;
+  font-size: 1vw;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+#primeResults{
+  visibility: visible;
+  font-size: 2vw;
+}
+.results1{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+.results2{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+.results3{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+.results4{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+.results5{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+.results6{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+.results7{
+  font-family: 'Poiret One', cursive;
+  width: 43vw;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgba(29, 31, 32, .7);
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
